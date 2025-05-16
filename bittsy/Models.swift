@@ -1,6 +1,6 @@
 //
 //  Models.swift
-//  bitty
+//  bittsy
 //
 //  Created by eric on 4/6/25.
 //
