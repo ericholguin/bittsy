@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/bitty-logo.png" alt="Bitty Logo" title="bitty logo" width="256"/>
+<img src="./assets/bittsy-logo.png" alt="bittsy logo" title="bittsy logo" width="256"/>
 
-# Bitty
+# bittsy
 
 Lightning-fast bitcoin to fiat conversions
 
